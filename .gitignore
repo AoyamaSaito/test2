@@ -1,0 +1,5 @@
+Library/
+Temp/
+obj/
+.vsconfig
+git test.sln
