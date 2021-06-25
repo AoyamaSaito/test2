@@ -8,6 +8,8 @@ public class tst : MonoBehaviour
     void Start()
     {
         Debug.Log("TEST");
+
+        Debug.Log("TEST");
     }
 
     // Update is called once per frame
